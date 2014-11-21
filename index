@@ -1,0 +1,3 @@
+<?php 
+rcho 'hello world';
+?>
